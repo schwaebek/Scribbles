@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>66D0817F-EF93-43F4-96AF-89DBEC642AF5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scribbles</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF93FAF1-F68F-4BF3-AC36-FD2CE5670D3A</key>
+		<string>https://github.com/schwaebek/Scribbles.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Scribbles/Scribbles.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF93FAF1-F68F-4BF3-AC36-FD2CE5670D3A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/schwaebek/Scribbles.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF93FAF1-F68F-4BF3-AC36-FD2CE5670D3A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF93FAF1-F68F-4BF3-AC36-FD2CE5670D3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Scribbles</string>
+		</dict>
+	</array>
+</dict>
+</plist>
